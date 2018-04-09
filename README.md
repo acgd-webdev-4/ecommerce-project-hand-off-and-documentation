@@ -17,7 +17,10 @@ deliverables: 'Pattern library'
 ## Task list
 
 - [ ] Hand off any necessary wireframes & sketches.
+- [ ] Provide all necessary text.
+- [ ] Provide all necessary images & graphics.
 - [ ] Outline all the relevant patterns and explain their use.
+- [ ] Explain what manipulations to the patterns, inside the include system, need to be completed.
 - [ ] Outline any CSS classes inside `theme.css` that may be necessary.
 - [ ] Outline the grid system, expected typography classes & expected modules.
 - [ ] Outline the appropriate colours.
