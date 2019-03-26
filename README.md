@@ -1,5 +1,5 @@
 ---
-summary: 'Work with your teammate to document & describe all the pieces necessary for creating the product details page.'
+summary: 'Work with your teammate to document & describe all the pieces necessary for creating the page.'
 time: '30 mins'
 deliverables: 'Pattern library'
 ---
@@ -8,7 +8,7 @@ deliverables: 'Pattern library'
 
 ## Overview
 
-- Work with your teammate to understand everything necessary for creating the product details page.
+- Work with your teammate to understand everything necessary for creating the page.
 - You should exchange wireframes & sketches so they know what they are creating.
 - Document the wireframes together explaining what patterns should be used, how they should be used, etc.
 
